@@ -1,4 +1,4 @@
-//(C) Liam Letters, 2021
+//(C) Liam Letters 2021
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(2,3,4,5,6,7);
